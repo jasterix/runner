@@ -13,6 +13,11 @@
 - No file system in the browser. Tell ESBBUild to fetch the modules
 		- Make our own plugin and when it comes across x, use 
 
+#### Other options (React)
+- https://github.com/uiwjs/react-markdown-editor
+- https://github.com/tbjgolden/react-codemirror6
+- https://github.com/suren-atoyan/monaco-react
+
 ### Reference points
 - [CodeRunner](https://github.com/olga-f/javascript-code-runner)
 
